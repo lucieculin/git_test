@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "roboto";
+    src: url(../exercice2/police/Roboto/Roboto-Black.ttf);
+}
+.container{
+    background-image: url(../exercice2/image/futuristic_city.jpg) ;
+    height: 700px;
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
